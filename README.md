@@ -1,0 +1,2 @@
+# DummyProject
+Learning Git
